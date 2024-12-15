@@ -1,0 +1,17 @@
+body {
+	background-color: #f0f8ff; /* Приятный цвет фона */
+}
+
+.block1 {
+	width: 100px;
+	height: 100px;
+	background-color: #ff6347; /* Цвет блока 1 */
+	margin: 10px;
+}
+
+.block2 {
+	width: 100px;
+	height: 100px;
+	background-color: #4682b4; /* Цвет блока 2 */
+	margin: 10px;
+}
