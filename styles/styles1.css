@@ -3,15 +3,15 @@ body {
 }
 
 .block1 {
-	width: 100px;
-	height: 100px;
+	inline-size: 100px; /* Ширина блока */
+	block-size: 100px; /* Высота блока */
 	background-color: #ff6347; /* Цвет блока 1 */
-	margin: 10px;
+	margin: 10px; /* Внешние отступы вокруг блока */
 }
 
 .block2 {
-	width: 100px;
-	height: 100px;
+	inline-size: 100px; /* Ширина блока */
+	block-size: 100px; /* Высота блока */
 	background-color: #4682b4; /* Цвет блока 2 */
-	margin: 10px;
+	margin: 10px; /* Внешние отступы вокруг блока */
 }
